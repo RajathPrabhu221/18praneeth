@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sushiksha website](https://sushiksha.konkanischolarship.com/)
 
-- 🌱 I’m currently learning **C ++**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/18praneeth?tab=repositories](https://github.com/18praneeth?tab=repositories)
 
